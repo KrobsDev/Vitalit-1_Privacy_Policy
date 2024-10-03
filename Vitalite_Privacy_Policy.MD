@@ -33,7 +33,7 @@ Although the app is free to download for all users, only information provided by
 
 We may update this Privacy Policy from time to time. If we make any changes, we will update the effective date at the top of this policy. We recommend reviewing this policy periodically to stay informed about how we are protecting your privacy.
 
-### 7. Contact Us
+### 8. Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please feel free to contact us at:
 
